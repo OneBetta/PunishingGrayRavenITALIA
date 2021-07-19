@@ -1,4 +1,5 @@
 | Punishing Gray Raven | Telegram | ID |
 | :-- | :-- | :-- |
-| a | b | 2 |
-| c | d | 3 |
+| Anajiis | Anajiis | 15470020 |
+| Betta | Betta | 15470020 |
+| Enrico | Enrico Casamento | 12663973 |
